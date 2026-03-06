@@ -1,0 +1,1 @@
+its a normal txt file to test the git commands.
